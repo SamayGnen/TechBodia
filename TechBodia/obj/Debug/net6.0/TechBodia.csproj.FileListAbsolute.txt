@@ -1,0 +1,15 @@
+/Users/samaygnen/Projects/TechBodia/TechBodia/bin/Debug/net6.0/TechBodia
+/Users/samaygnen/Projects/TechBodia/TechBodia/bin/Debug/net6.0/TechBodia.deps.json
+/Users/samaygnen/Projects/TechBodia/TechBodia/bin/Debug/net6.0/TechBodia.runtimeconfig.json
+/Users/samaygnen/Projects/TechBodia/TechBodia/bin/Debug/net6.0/TechBodia.dll
+/Users/samaygnen/Projects/TechBodia/TechBodia/bin/Debug/net6.0/TechBodia.pdb
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.csproj.AssemblyReference.cache
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.AssemblyInfoInputs.cache
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.AssemblyInfo.cs
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.csproj.CoreCompileInputs.cache
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.dll
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/refint/TechBodia.dll
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.pdb
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/TechBodia.genruntimeconfig.cache
+/Users/samaygnen/Projects/TechBodia/TechBodia/obj/Debug/net6.0/ref/TechBodia.dll
